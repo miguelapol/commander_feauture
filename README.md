@@ -31,4 +31,5 @@ Aqui lo conectamos con api para que se pueda conectar y como resultado tenemos l
 <h1>Crear ,editar el comander</h1>
 <img src="https://user-images.githubusercontent.com/33709574/167467678-d2bd863b-641f-411e-9cf4-bdd540e8a29b.gif">
 <h1>Eliminar Commander</h1>
-<img src="https://user-images.githubusercontent.com/33709574/167471703-ec607e94-a8d3-4a0c-a338-37f3f4ec3224.gif">
+<img src="![Diseño sin título](https://user-images.githubusercontent.com/33709574/167472479-13c724b6-0edc-4316-a2e0-93b15ced2a5e.gif)
+">
