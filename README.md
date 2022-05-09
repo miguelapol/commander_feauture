@@ -25,7 +25,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <h1>Conexion API</h1>
 Aqui lo conectamos con api para que se pueda conectar y como resultado tenemos lo siguiente
-<p>aqui añadimos esta api para que pueda HACER EL CRUD</p>
+<p>aqui añadimos esta api para que pueda hacer el crud</p>
 <br>
 <a href="https://github.com/miguelapol/api_feauture">API_Commander</a>
 <h1>Crear ,editar el comander</h1>
