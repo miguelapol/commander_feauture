@@ -15,11 +15,24 @@
         />
       </div>
       <div class="form-group">
-        <label for="title">Misión</label>
+        <label for="title">main Stack</label>
         <input type="text" class="form-control" id="title"
-          v-model="currentExplorer.mission"
+          v-model="currentExplorer.mainstack"
         />
       </div>
+
+      <!--Aqui pondremos un selecionador multiple-->
+      <div class="form-group">
+        <label for="title">Inscripcion</label>
+        <select class="form-control" id="inscription" v-model="currentExplorer.inscription">
+          <option disabled value="">Seleccione una inscripcion</option>
+          <option :value='true'>Inscrito</option>
+          <option :value='false'>No inscrito</option>
+
+        </select>
+
+      </div>
+
     </form>
     <button class="btn btn-danger mr-2" @click="deleteExplorer">
       Eliminar Explorer
